@@ -1,0 +1,4 @@
+.idea
+microservice/.pytest_cache
+microservice/model/__pycache__
+microservice/__pycache__
